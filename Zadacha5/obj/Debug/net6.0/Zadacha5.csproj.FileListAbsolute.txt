@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\bin\Debug\net6.0\Zadacha5.exe
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\bin\Debug\net6.0\Zadacha5.deps.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\bin\Debug\net6.0\Zadacha5.runtimeconfig.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\bin\Debug\net6.0\Zadacha5.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\bin\Debug\net6.0\Zadacha5.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.AssemblyInfo.cs
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\refint\Zadacha5.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\Zadacha5.genruntimeconfig.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya7_\Zadacha5\obj\Debug\net6.0\ref\Zadacha5.dll
